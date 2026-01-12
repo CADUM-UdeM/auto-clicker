@@ -1,4 +1,4 @@
-# Défi 2 : Le Compteur de Jeu Clicker
+# Défi 2 : Auto-clicker simple
 
 **Temps estimé :** 40-50 minutes  
 **Difficulté :** Débutant  
